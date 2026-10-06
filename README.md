@@ -1,4 +1,4 @@
-# chatdraw
+# Chatdraw
 An alternative version of tldraw SDK to make it friendly for mobile chat box input with emoji options
 
 <div alt style="text-align: center; transform: scale(.5);">
